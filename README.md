@@ -1,3 +1,7 @@
+# Git Cheatsheet
+![hustlin_erd](cheatsheet.pdf)
+
+
 # Basic git command
 ---
 
