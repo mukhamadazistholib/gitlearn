@@ -1,5 +1,5 @@
 # Git Cheatsheet
-![git_cheatsheet](git_cheatsheet.pdf)
+![git_cheatsheet](git_cheatsheet.png)
 
 
 # Basic git command
