@@ -1,5 +1,5 @@
 # Git Cheatsheet
-![hustlin_erd](cheatsheet.pdf)
+![git_cheatsheet](git_cheatsheet.pdf)
 
 
 # Basic git command
